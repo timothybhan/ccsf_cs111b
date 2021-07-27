@@ -1,0 +1,25 @@
+public static sumLargeSmall(int[] intArray) {
+
+int minSmall = intArray[0];
+
+int maxLarge = intArray[0];
+
+for (int i : intArray) {
+
+if (i < minSmall){
+
+minSmall = i;
+
+}
+
+if (i > maxLarge){
+
+maxLarge = i;
+
+}
+
+}
+
+return minSmall + maxLarge;
+
+}

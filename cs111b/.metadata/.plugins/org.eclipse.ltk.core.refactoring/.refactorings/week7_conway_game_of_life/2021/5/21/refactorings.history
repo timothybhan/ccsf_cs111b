@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;week7_conway_game_of_life.NeverAliceCell.java&apos; to &apos;NeverAliveCell.java&apos;&#x0A;- Original project: &apos;week7_conway_game_of_life&apos;&#x0A;- Original element: &apos;week7_conway_game_of_life.NeverAliceCell.java&apos;&#x0A;- Renamed element: &apos;week7_conway_game_of_life.NeverAliveCell.java&apos;" description="Rename compilation unit &apos;NeverAliceCell.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;week7_conway_game_of_life{NeverAliceCell.java" name="NeverAliveCell.java" references="false" stamp="1621141118172" version="1.0"/>
+</session>

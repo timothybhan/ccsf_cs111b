@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;week1_blackjack.BlackJack&apos; to &apos;Blackjack&apos;&#x0A;- Original project: &apos;week1_blackjack&apos;&#x0A;- Original element: &apos;week1_blackjack.BlackJack&apos;&#x0A;- Renamed element: &apos;week1_blackjack.Blackjack&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;BlackJack&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;week1_blackjack{BlackJack.java[BlackJack" matchStrategy="1" name="Blackjack" qualified="false" references="true" similarDeclarations="false" stamp="1618185938055" textual="false" version="1.0"/>
+</session>
